@@ -17,7 +17,7 @@ body {
 .fibonacci-box {
     height: 10rem;
     color: white;
-    padding: 1rem;
+    padding: 1rem;background-color: #645000background-color: #645000
 }
 
 .size-0 {background-color: #640000; flex: 1}
@@ -50,6 +50,12 @@ body {
 }
 
 .size-21 {
+    background-color: #64A000;
+    flex: 10;
+}
+
+.size-21 {
+    font-size: larger;
     background-color: #64A000;
     flex: 10;
 }
